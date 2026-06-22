@@ -1,0 +1,5 @@
+frontend/.env.local
+frontend/.next
+frontend/node_modules
+frontend/dev-server.log
+tests/__pycache__
