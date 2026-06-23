@@ -43,17 +43,6 @@ GenPatent/
 
 ---
 
-## Builder Program Score Target
-
-| Axis | Target | Evidence |
-|---|---:|---|
-| **GenLayer fit** | 5 | Uniqueness and infringement audits depend on reading web sources and subjective AI logic reasoning; removing AI makes the system fail. |
-| **Contract quality** | 4-5 | Storage types fully compliant, virtual accounts ledger, compliance project escrows, dispute resolution and penalty slashing patterns. |
-| **Engineering** | 4-5 | Structured directories, deploy script, static AST validation test suite, and clean documentation. |
-| **Frontend / UX** | 4-5 | Premium Next.js app styled matching the Agentory Framer template with glassmorphic cards, neon orange accents, micro-animations, logs feed, and a real `genlayer-js` contract workflow. |
-
----
-
 ## Contract Flow
 
 1. `register_user(address)`: Registers or fetches a user ID, seeding 1000 tokens for convenience in demo mode.
